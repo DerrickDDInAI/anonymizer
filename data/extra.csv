@@ -1,0 +1,7 @@
+text;label
+Please pay €50.000 to IBAN BE68 5390 0754 7034 before 2022-12-27 08:26:49.21.;Please pay <AMOUNT> to IBAN <IBAN> before <DATE_TIME>.
+Her national number is 82.05.30-025.56 and her phone number is 015 29 58 58.;Her national number is <SSN> and her phone number is <PHONE_NUMBER>.
+Send the invoice to John.doe@ordina.be or visit https://www.ordina.be for details.;Send the invoice to <EMAIL_ADDRESS> or visit <URL> for details.
+Marie Dubois, a nurse at UZ Leuven, studied at KU Leuven and lives in Antwerp.;<PERSON>, a <JOB> at <ORG>, studied at <UNIVERSITY> and lives in <LOCATION>.
+Contact Tom Peeters (SSN 123-45-6789) at +32 470 12 34 56, his salary is 3.500 euros.;Contact <PERSON> (SSN <SSN>) at <PHONE_NUMBER>, his salary is <AMOUNT>.
+Our accountant Sofie Janssens transferred USD 1,200 from NL91 ABNA 0417 1643 00 on 2023-01-15.;Our <JOB> <PERSON> transferred <AMOUNT> from <IBAN> on <DATE_TIME>.
