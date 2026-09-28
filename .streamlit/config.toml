@@ -1,0 +1,11 @@
+# Streamlit settings for the demo app.
+
+[server]
+# Streamlit normally watches every imported Python file so it can reload the app
+# when you edit code. Walking through the huge `transformers` package makes it
+# import modules we never use (and logs errors about missing torchvision).
+# We switch the watcher off: restart the app after changing its code.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
