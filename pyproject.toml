@@ -1,7 +1,7 @@
 [project]
 name = "anonymizer"
 version = "0.1.0"
-description = "Add your description here"
+description = "Find and anonymize sensitive entities in text with pre-trained NER models and regex, with a benchmark, a Streamlit demo and a FastAPI endpoint"
 readme = "README.md"
 authors = [
     { name = "Derrick DD Van Frausum", email = "derrick.vanfrausum@gmail.com" }
